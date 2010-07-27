@@ -1,0 +1,9 @@
+pycanstalku is a Python module that is ported from/inspired by the 
+I Can Stalk U Perl scripts by Ben Jackson/Mayhemic Labs. I Can Stalk U
+harvests geocoded EXIF metadata from publicly available images posted by
+Twitter users to image hosting services like Twitpic, Yfrog, etc.
+
+More info:
+
+* http://icanstalku.com/
+* https://code.google.com/p/icanstalku/
